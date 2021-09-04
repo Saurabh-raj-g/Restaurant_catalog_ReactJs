@@ -1,8 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'C:/Users/vivek/node_modules/react';
+import ReactDOM from 'C:/Users/vivek/node_modules/react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'D:/Bootstrap4/conFusion/node_modules/font-awesome/css/font-awesome.css';
+import 'D:/Bootstrap4/conFusion/node_modules/bootstrap-social/bootstrap-social.css';
 
 ReactDOM.render(
   <React.StrictMode>
